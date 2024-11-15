@@ -1,4 +1,6 @@
-## Hi there 👋
+<a href="https://zenn.dev/snyt45"><img src="https://badgen.org/img/zenn/snyt45/likes?style=flat" alt="Likes" /></a>
+<a href="https://qiita.com/snyt45"><img src="https://badgen.org/img/qiita/snyt45/contributions?style=flat-square" alt="Contributions" /></a>
+<a href="https://atcoder.jp/users/snyt45?contestType=algo"><img src="https://badgen.org/img/atcoder/snyt45/rating/algorithm?style=flat" alt="Rating" /></a>
 
 ## 🏃‍♀️ Activities
 
