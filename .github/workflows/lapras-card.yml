@@ -13,3 +13,5 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "snyt45"
+          CARD_WIDTH: "300"
+          UPDATE_TIME: "false"
