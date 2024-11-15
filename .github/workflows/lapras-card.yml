@@ -13,4 +13,3 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "snyt45"
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
