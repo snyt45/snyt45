@@ -12,3 +12,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=snyt45&theme=gruvbox&row=2&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## LAPRAS SCORE
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
